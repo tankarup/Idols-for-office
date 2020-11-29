@@ -83,7 +83,7 @@ function save_xml(){
   
   let content = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <a:clrScheme
-    xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="Slidehelper - 001">
+    xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="idol for office">
     <a:dk1>
         <a:sysClr val="windowText" lastClr="000000"/>
     </a:dk1>
