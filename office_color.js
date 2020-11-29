@@ -95,7 +95,7 @@ function save_xml(){
   for (let color of office_colors){
     content += `
     <a:${color.sys}>
-      <a:sysClr val="window" lastClr="${color.color.slice(1)}"/>
+      <a:srgbClr val="${color.color.slice(1)}"/>
     </a:${color.sys}>
     `;
   }
