@@ -253,7 +253,7 @@ function init(){
     });
   }
 
-  sort_color_list('label');
+  sort_color_list('hue');
 
   
 }
