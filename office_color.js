@@ -81,8 +81,7 @@ function btn_color_selected(id, color, label){
 
 function save_xml(){
   
-  let content = `
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  let content = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <a:clrScheme
     xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="Slidehelper - 001">
     <a:dk1>
