@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<a:clrScheme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="ShinyColors"><a:dk1><a:sysClr val="windowText" lastClr="000000"/></a:dk1><a:lt1><a:sysClr val="window" lastClr="FFFFFF"/></a:lt1>
+<a:dk2><a:srgbClr val="1c8971"/></a:dk2>
+<a:lt2><a:srgbClr val="98c4e9"/></a:lt2>
+
+<a:accent1><a:srgbClr val="fcb231"/></a:accent1>
+<a:accent2><a:srgbClr val="853998"/></a:accent2>
+<a:accent3><a:srgbClr val="fa8333"/></a:accent3>
+<a:accent4><a:srgbClr val="ff699e"/></a:accent4>
+<a:accent5><a:srgbClr val="e71212"/></a:accent5>
+<a:accent6><a:srgbClr val="324787"/></a:accent6>
+
+<a:hlink><a:srgbClr val="323232"/></a:hlink>
+<a:folHlink><a:srgbClr val="E3DED1"/></a:folHlink>
+</a:clrScheme>
