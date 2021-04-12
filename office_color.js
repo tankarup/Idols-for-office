@@ -477,7 +477,12 @@ const idols =
  ['中谷育', 'MillionStars', '#F7E78E'],
  ['伊瀬谷四季', '315ProIdols', '#F125C1'],
  ['中野有香', 'CinderellaGirls', '#CB78B0'],
- ['ロコ', 'MillionStars', '#FFF03C']];
+ ['七草にちか', '283Pro', '#1e8c1b'],
+ ['緋田美琴', '283Pro', '#5b0512'],
+ ['ロコ', 'MillionStars', '#FFF03C']
+
+
+];
 
 
 
