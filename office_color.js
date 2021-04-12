@@ -333,7 +333,7 @@ const idols =
  ['横山奈緒', 'MillionStars', '#788BC5'],
  ['本田未央', 'CinderellaGirls', '#F6B128'],
  ['十時愛梨', 'CinderellaGirls', '#E9425C'],
- ['幽谷霧子', '283Pro', '#D9F2DD'],
+ ['幽谷霧子', '283Pro', '#D9F2FF'],
  ['大河タケル', '315ProIdols', '#0E0C9F'],
  ['日高愛', 'DearlyStars', '#E85786'],
  ['秋月涼', '315ProIdols', '#70B449'],
